@@ -1,0 +1,50 @@
+[
+  {
+    "addresses": [
+      {
+        "address": "75 chemin de malepere",
+        "city": "Toulouse",
+        "label": "main",
+        "zipcode": "31400"
+      }
+    ],
+    "emails": ["regine.villefroy@free.fr", "gecot@free.fr"],
+    "houseNumber": 1,
+    "owners": [
+      {
+        "name": "Regine",
+        "surname": "Villefroy"
+      },
+      {
+        "name": "Gérard",
+        "surname": "Cottignola"
+      }
+    ],
+    "purchaseDate": "",
+    "telephones": ["0561807749"]
+  },
+  {
+    "addresses": [
+      {
+        "address": "75 chemin de malepere",
+        "city": "Toulouse",
+        "label": "main",
+        "zipcode": "31400"
+      }
+    ],
+    "emails": ["regine.villefroy@free.fr", "gecot@free.fr"],
+    "houseNumber": 2,
+    "owners": [
+      {
+        "name": "Sabine",
+        "surname": "Leygues"
+      },
+      {
+        "name": "Jérome",
+        "surname": "Leygues"
+      }
+    ],
+    "purchaseDate": "21/1/1998",
+    "telephones": ["0561545907", "0606431954"]
+  }
+]

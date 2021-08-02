@@ -1,0 +1,11 @@
+.Properties {
+  margin: 20px;
+}
+
+.ActionBar {
+  display: grid;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  column-gap: 10px;
+}
